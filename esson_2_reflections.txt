@@ -1,0 +1,9 @@
+O que acontece ao iniciar um repositório?
+ - é criado pasta .git na pasta
+Por que você precisa fazer isso?
+ - para q ela possa ser rastreada pelo GIT e identificar alteracoes em seus Arquivos ( criando um Repositorio )
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório?
+ - uma area onde o arquivo pode ser alterado e restaurado se necessario, sem ter q commitar para p Branch
+Qual valor você acha que ela oferece?
+ - identificar arquivos relacionados LOGICAMENTE na impletacao de alguma melhoria ou Fix
