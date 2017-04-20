@@ -7,3 +7,22 @@ Em que se difere a área de preparação do diretório de trabalho e do reposit�
  - uma area onde o arquivo pode ser alterado e restaurado se necessario, sem ter q commitar para p Branch
 Qual valor você acha que ela oferece?
  - identificar arquivos relacionados LOGICAMENTE na impletacao de alguma melhoria ou Fix
+
+ Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+  - a cada finalizacao da alteracao, vai adicionando À area de Preparação para distinguir da sua pasta de trabalho
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado?
+  - criar um novo recurso. Corrigir um problema no codigo desconhecido
+  Como branches ajudariam?
+    - eles criam uma copia de todo o codigo para q possa ser trabalhado nele sem interferir no cod. principal ou da ultima release
+
+    Como os diagramas ajudam a visualizar a estrutura de branches?
+      - vizualizamos todos os Branchs com seus commits identificando o q foram commitados e os q nao em outros branches
+
+Qual é o resultado da mesclagem de dois branches?
+  - Uni 2 branchs adicionando o q foi criado em um no outro
+Por que o representamos no diagrama dessa forma?
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+ - automatico é mais rapido e pratico, quando tem conflito o GIT identifica os dois codigos no mesmo arquivo para serem conferidos e deixado apenas o cod q deve ficar
+ 
