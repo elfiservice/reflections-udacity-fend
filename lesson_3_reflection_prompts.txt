@@ -1,0 +1,3 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+  - Seria muito bom manter um rep. remoto, devido ser mantido um backup fora da minha maquina, podendo trabalhar de qualquer lugar.
+
