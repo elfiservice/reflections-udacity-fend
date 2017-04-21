@@ -8,3 +8,6 @@ Descreva as diferenças entre bifurcações, clones e branches. Quando você usa
   - Fork: usado apenas para copiar um repositorio para sua conta do GITHub.
     clone: usado para fazer uma copia de um repositorio, remoto ou local
     branches: usado para cirar uma copia de todo o codigo (Arquivos) dentro do proprio repositorio a partir de um commit especifico.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+  - a possibilidade de trabalhar off line com a versao mais atualizada do codigo.
